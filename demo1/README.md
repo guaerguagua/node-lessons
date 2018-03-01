@@ -1,4 +1,5 @@
 # 《Node.js 中 webpack-dev-server使用》
+## 简介
 webpack 是js中用来打包编译项目的工具，把项目目录下的文件打包成一个文件js输出给浏览器使用
 而webpack-dev-server是在开发过程中启动一个webpack的自动打包和发布的微型服务，有自动刷新和模块热替换功能。
 例如：在部署了webpack-dev-server的项目中，直接修改代码，就可以在马上在浏览器看到结果
